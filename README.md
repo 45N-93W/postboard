@@ -1,3 +1,3 @@
-# postboard-v2
+# journak
 
-federated postbord
+program

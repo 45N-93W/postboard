@@ -1,17 +1,12 @@
 <?php
-require("views.php");
+require("../views/home/");
 class Controller {
 
 	/**
 	 */
-	function __construct() {
-        $view = new View();
-	}
+
     function get_view() {
-        $url = $_GET;
-        if($url == "/") {
-            $view->set_
-        }
+
         
         
     }
